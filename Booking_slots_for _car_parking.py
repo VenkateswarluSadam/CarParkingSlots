@@ -7,7 +7,7 @@ lanes=[A,B,C,D]
 l=["A","B","C","D"]
 cars=[]
 lanslot=[]
-def Display_Lanes():
+def Display_Lanes():    
     print("A:",*A)
     print("B:",*B)
     print("C:",*C)
